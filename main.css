@@ -1,0 +1,20 @@
+.paginated li{
+   display: inline-block;
+   padding: 5px;
+}
+.container{
+   text-align: center;
+   display: block;
+   position: relative;
+
+
+}
+table{
+   border: 1px solid black;
+   text-align: center;
+   margin: 0px auto;
+}
+table th{
+   padding: 5px 15px;
+   border: 1px solid black;
+}
